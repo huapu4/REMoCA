@@ -1,0 +1,5 @@
+# A Model for Rapid Effective Cognitive Assessment via Eye Movement
+
+We present a novel model for rapid effective cognitive assessment in participants with different neurological and systemic disorders, which is composed of a two-stage network. The first-stage of the network differentiates the eye movement patterns of each eye movement trial from fixation task, saccadic task, anti-saccade task, horizontal smooth pursuit task, and vertical smooth pursuit task. The second-stage of the network comprised a logistic regression model, which is learned to fuse the first-stage network output for cognitive dysfunction. 
+
+The model has robust performance in subgroups of participants stratified by sex, age, education level, hypertension status, diabetes status, and visual impairment status and in the sub-dataset created based on the prevalence of cognitive dysfunction in the elderly Chinese population. This study provides a generalizable cognitive assessment model that has the potential to be applied with speed, objectivity, and high efficiency to a broader range of health settings in the future.
