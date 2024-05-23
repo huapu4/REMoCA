@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="324c005b-b0d6-4aa2-895c-1027d0a73b8a" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stage1/network/C3D_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stage1/network/C3D_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stage1/network/P3D_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stage1/network/P3D_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stage2/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stage2/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
     &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project/REMoCA/Step2_Moca_dignosis&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/em_end2end&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -111,6 +113,9 @@
       <workItem from="1716338815442" duration="3821000" />
       <workItem from="1716342837591" duration="4410000" />
       <workItem from="1716383612629" duration="191000" />
+      <workItem from="1716384219322" duration="623000" />
+      <workItem from="1716430921753" duration="1920000" />
+      <workItem from="1716447317903" duration="346000" />
     </task>
     <servers />
   </component>
@@ -121,7 +126,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Stage1_eyetrack/cam.py</url>
+          <url>file://$PROJECT_DIR$/Stage1/cam.py</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
