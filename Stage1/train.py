@@ -13,7 +13,7 @@ import torch
 from sklearn import metrics
 from tensorboardX import SummaryWriter
 from torch import nn, optim
-from torch.autograd import Variable
+from torch.autograd import Variable 
 from torch.utils.data import DataLoader
 from tqdm import tqdm
 

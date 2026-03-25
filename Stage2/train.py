@@ -15,6 +15,7 @@ from cal_index import all_indicators
 import pickle
 
 
+
 def save_model(model_path, clf):
     # save the checkpoints
     with open(f'{model_path}.pickle', 'wb') as f:
